@@ -1,0 +1,1 @@
+swear_word,replacement_word
